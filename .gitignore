@@ -3,3 +3,4 @@ env
 __pycache__/
 *.env
 .vscode/settings.json
+ws-publisher/class-demo-478108-f7ddb0897909.json
